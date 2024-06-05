@@ -1,0 +1,44 @@
+/* Write your CSS here */
+.contain {
+  display: flex;
+  justify-content: space-between;
+}
+.white {
+  background-color: #1e293b;
+}
+.black {
+  background-color: #ffffffff;
+}
+.row {
+  display: flex;
+  list-style-type: none;
+}
+.image-2 {
+  width: 100px;
+  height: 100px;
+  margin-left: 30px;
+}
+.theme-img {
+  width: 80px;
+  height: 80px;
+}
+.button-container {
+  background-color: transparent;
+  border-width: 0px;
+  cursor: pointer;
+  outline: none;
+}
+.black-class {
+  margin: 10px;
+  text-decoration: dashed;
+  color: #ffffffff;
+  font-weight: bold;
+  margin-bottom: 100px;
+}
+.white-class{
+  margin: 10px;
+    text-decoration: dashed;
+     font-weight: bold;
+
+ 
+}

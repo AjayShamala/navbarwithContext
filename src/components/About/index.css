@@ -1,0 +1,29 @@
+/* Write your CSS here */
+.image {
+  width: 10%;
+}
+.about {
+  font-family: 'Roboto';
+  font-size: 24px;
+}
+.d {
+  color: #1e293b;
+}
+.name {
+  color: #ffffffff;
+}
+.containers {
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.light {
+  background-color: #ffffffff;
+  background-size: cover;
+}
+.dark {
+  background-color: #000000;
+  background-size: cover;
+}
